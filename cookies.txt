@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.bwin.com	TRUE	/	FALSE	1999999999	usersettings	cid%3Des-ES%26vc%3D0%26sst%3D0001-01-01T00%3A00%3A00.0000000Z%26psst%3D0001-01-01T00%3A00%3A00.0000000Z
+.bwin.com	TRUE	/	FALSE	1999999999	isLanguageChanged	false
+.bwin.com	TRUE	/	FALSE	1999999999	lang	es
+sports.bwin.com	TRUE	/	FALSE	1999999999	samesite	none
+.iivt.com	TRUE	/	FALSE	1999999999	__cf_bm	ljS.pquir.XtElXQ0arcLDeULHaUGdk3afSgDhOgVlY-1703551465-1-AVbIxPY450GfW4h06l+7+DK/IZy66todDwxjpZ1AyB+HavPe4jgTKSqKt28Ty7i8kU4q+vQubAQ7CwmRxBha+h4=
+p.iivt.com	TRUE	/	FALSE	1999999999	SameSite	None
+.itsfogo.com	TRUE	/	FALSE	1999999999	__cf_bm	05hFzRKQD3lD19ah0oNyQqkngkVwl0UVpAKEnY32xNM-1703562571-1-AZfJ8/z4SJO481VLKESLHPPa7pkuqCPfBIHqSzt83y+NQ+K2x2RvtgKrOxp3oE29Xyz5CbBMksmepJ9rLr/xHeM=
+media.itsfogo.com	TRUE	/	FALSE	1999999999	SameSite	None
+.bwin.com	TRUE	/	FALSE	1999999999	__cf_bm	s2LtqaskcA7xQ7.hjJIfEZveGlxrIhd2HpZzlGdaJkI-1703562700-1-AbPFTbJnA5/AzmhizSmAf22MkbBir25/s2EzqF8+HZcyjaY1qUBCCxm8lgDef+AR1GmUUqAphOVqG9lJTQQZZBEYDOriXM9xDE6d2rS6e780
+sports.bwin.com	TRUE	/	FALSE	1999999999	SameSite	None
+
